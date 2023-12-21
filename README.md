@@ -1,2 +1,10 @@
 # CityModel
 A 3D model of a city with moving objects
+
+## Technologies
+- C++
+- OpenGL (via GLUT/GLEW)
+- GLM
+- ASSIMP Model Importer
+
+![image](https://github.com/CybrNight/CityModel/assets/14323993/7005daae-4c88-446a-8273-98ede3dc9350)
