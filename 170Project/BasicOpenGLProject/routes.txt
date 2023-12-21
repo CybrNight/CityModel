@@ -1,0 +1,4 @@
+4
+splines/star.sp
+splines/circle2.sp
+splines/spiral.sp
