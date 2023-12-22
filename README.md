@@ -2,7 +2,7 @@
 A 3D model of a city with moving objects
 
 ## Technologies
-- C++
+- C/C++
 - OpenGL (via GLUT/GLEW)
 - GLM
 - ASSIMP Model Importer
